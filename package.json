@@ -22,12 +22,12 @@
   "type": "commonjs",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dilmuhammad/sum-of-two-numbers.git"
+    "url": "git+https://github.com/dilmuhammad006/sum-of-two-numbers.git"
   },
   "bugs": {
     "url": "https://github.com/dilmuhammad/sum-of-two-numbers/issues"
   },
-  "homepage": "https://github.com/dilmuhammad/sum-of-two-numbers#readme",
+  "homepage": "https://github.com/dilmuhammad006/sum-of-two-numbers",
   "engines": {
     "node": ">=12.0.0"
   },
