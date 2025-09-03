@@ -1,6 +1,6 @@
 {
   "name": "@dilmuhammad/sum-of-two-numbers",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Simple utility function to sum two numbers",
   "files": [
     "index.js",
